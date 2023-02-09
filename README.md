@@ -17,8 +17,6 @@ cd projet8-TodoList
 
 composer install
 
-composer update
-
 php bin/console doctrine:database:create
 
 php bin/console doctrine:schema:update --force
