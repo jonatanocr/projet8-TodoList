@@ -9,7 +9,7 @@ Project requirements :
 PHP 7.2
 
 
-Project installation :
+Project installation
 ```
 git clone https://github.com/jonatanocr/projet8-TodoList.git
           
